@@ -1,4 +1,3 @@
-
 def fibonacci(nums):
     x = 0
     serie = []
